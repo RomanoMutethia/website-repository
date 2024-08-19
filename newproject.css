@@ -1,0 +1,31 @@
+button {
+    background-color: darkgreen;
+    border-radius: 30px;
+}
+
+#page1 {
+    background-color: lightgreen;
+}
+
+.green {
+    color: green;
+}
+
+.yellow {
+    color: orange;
+}
+
+#page2{
+      background-color: white;
+
+}
+#page3{
+     background-color: aliceblue ;
+
+
+}
+#page4{
+      background-color:lightgreen ;
+
+
+}
